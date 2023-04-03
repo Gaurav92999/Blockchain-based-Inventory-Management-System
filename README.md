@@ -15,7 +15,6 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/inventory-management.git
 Change into the project directory:
 bash
 Copy code
@@ -29,7 +28,7 @@ Start the development server:
 sql
 Copy code
 npm start
-Open your browser and go to http://localhost:3000 to access the DApp.
+Open your browser and go to http://localhost:8080 to access the DApp.
 
 Connect to the Ethereum network using MetaMask.
 
